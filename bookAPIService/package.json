@@ -1,0 +1,15 @@
+{
+  "name": "serverlessbookapi",
+  "version": "1.0.0",
+  "description": "Assignment 03: Simple API using Serverless Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhjot Kaur",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.152.0",
+    "uuid": "^3.1.0"
+  }
+}
